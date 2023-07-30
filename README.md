@@ -18,3 +18,5 @@ Code sections for mean-field:
 3. Re-training magnitude and random pruned subnetworks
 4. Pre-post trajectory correlation plot (unused)
 5. t-SNE embedding and norm distribution experiments
+
+Statistical parameter distribution tests were performed by exporting weight data to R.
